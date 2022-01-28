@@ -4,3 +4,8 @@ Jsl_goldfish
 Jsl_dog
 Hksl_bicycle-Jsl_bicycle
 Jsl_dog
+Hksl_carrot
+Hksl_carrot
+Jsl_summer
+Hksl_carrot
+Hksl_carrot
